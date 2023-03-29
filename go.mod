@@ -9,6 +9,7 @@ require (
 	golang.org/x/image v0.0.0-20220601225756-64ec528b34cd
 	gorm.io/driver/mysql v1.3.4
 	gorm.io/gorm v1.23.6
+	github.com/answerdev/answer v1.0.4
 )
 
 require (
